@@ -2,4 +2,4 @@
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
     <h3 align="center">Developer of CS:GO servers and not only</h3>
     <h3 align="center">My social network</h3>
-    </h3> <h3 align="center"><a href="https://t.me/sorldd" target="_blank">Telegram</a></h3>
+    </h3> <h3 align="center"><a href="https://t.me/ask0r9" target="_blank">Telegram</a></h3>
